@@ -6,6 +6,7 @@
 <p>composer install --ignore-platform-reqs</p>
 <p>npm install --force</p>
 <p>npm run dev</p>
+<p>create db table "elnady" </p>
 <p>php artisan migrate</p>
 <p>php artisan db:seed</p>
 <p>php artisan serve</p>
